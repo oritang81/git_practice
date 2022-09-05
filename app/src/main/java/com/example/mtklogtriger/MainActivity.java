@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.i("TAG", "Git 1");
         Log.i("TAG", "Git 2");
         setContentView(R.layout.activity_main);
 
