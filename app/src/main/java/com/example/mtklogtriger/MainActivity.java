@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Log.i("TAG", "Git 1");
         Log.i("TAG", "Git 2");
+        Log.i("TAG", "Git 3");
         setContentView(R.layout.activity_main);
 
         btn = findViewById(R.id.btn);
