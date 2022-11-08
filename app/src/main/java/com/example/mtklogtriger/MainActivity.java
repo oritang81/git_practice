@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("TAG", "Git branch commit 3");
         Log.i("TAG", "Git master commit 2");
+        Log.i("TAG", "Git branch commit 4");
 
         setContentView(R.layout.activity_main);
 
