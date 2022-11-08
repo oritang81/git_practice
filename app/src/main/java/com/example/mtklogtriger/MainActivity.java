@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("TAG", "Git branch");
         Log.i("TAG", "Git branch commit 1");
+        Log.i("TAG", "Git branch commit 2");
+
         setContentView(R.layout.activity_main);
 
         btn = findViewById(R.id.btn);
