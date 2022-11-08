@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("TAG", "Git 4");
         Log.i("TAG", "Git 3");
 
+        Log.i("TAG", "Git master commit 1");
+
         Log.i("TAG", "Git branch");
         Log.i("TAG", "Git branch commit 1");
         Log.i("TAG", "Git branch commit 2");
